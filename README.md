@@ -2,7 +2,7 @@
 - 👀 I’m interested being challenged and engaging with projects that require me to work outside my comfort and knowledge set.
 - 🌱 I’m motivated by learning new things, digging into details, solving complex technical challenges, and accomplishing big thing
 - 💞️ I’m looking to collaborate on projects dealing with C#, C, and C++
-- 📫 Reach me on LinkedIn, or 
+- 📫 Reach me on LinkedIn,
 
 A little about me includes:
 
