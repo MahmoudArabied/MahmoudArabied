@@ -6,7 +6,7 @@
 
 A little about me includes:
 
-- A dynamic hard-worker engineer with a strong knowledge of software development up to 8 years.
+- A dynamic hard-worker engineer with a strong knowledge of software development up to 10 years.
 - Extensive experience working on technologies such as: C#, and .Net technologies.
 - Highly skilled in designing and developing software.
 - Thorough understanding of algorithm development and data structures.
